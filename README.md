@@ -81,7 +81,7 @@ We created pivot tables and applied conditional formatting to enhance data visua
 These insights reveal that the total income of our customers stands at $1,759,544,541, with an average income of $181,228 across 9,709 customers. This substantial average income indicates that a significant portion of our customer base is likely to meet the income eligibility criteria for various credit card offerings
 
 #### How long have customers created account with us
-![Account Length](https://github.com/ezraonyinkwa/Credit-Card-Analysis/assets/139281995/f89e14e2-9ba9-4255-92c0-c6d39b6dfb69)
+![Account Length](https://github.com/ezraonyinkwa/Credit-Card-Eligibility-Analysis/assets/139281995/71413d4f-9b8e-4ac2-b9e1-dd7cd3d83a13)
 
 #### Findings
 
@@ -91,7 +91,8 @@ The longer account lengths suggest a stable and loyal customer base, which typic
 
 #### What is the age group of most of our customers
 
-![Age group credit card](https://github.com/ezraonyinkwa/Credit-Card-Analysis/assets/139281995/5b4cc39b-c0cb-452a-99f5-7e66b13eba2d)
+![Age group credit card](https://github.com/ezraonyinkwa/Credit-Card-Eligibility-Analysis/assets/139281995/499c0f76-a4c2-4729-bdad-707e61dca0e6)
+
 
 #### Findings
 
