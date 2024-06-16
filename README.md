@@ -138,6 +138,10 @@ From the analysis, majority of our customers have an educational level of Second
 Individuals with higher education levels, such as those with academic degrees, may have higher earning potential and financial literacy, potentially making them more eligible for premium credit card products with higher credit limits and exclusive benefits.
 Customers with lower education levels, such as those with Secondary/Secondary Special education, may have varying income levels and financial responsibilities.
 
+## Dashboard
+![credit card analysis](https://github.com/ezraonyinkwa/Credit-Card-Eligibility-Analysis/assets/139281995/0a0bae41-ae54-4d79-b55a-e8acba48c776)
+
+
 ### Recommendations
 
 -  Develop credit card products tailored to different educational backgrounds, marital statuses, and job roles. For example, offer credit cards with varying credit limits, rewards programs, and interest rates to cater to customers with diverse financial circumstances.
@@ -145,6 +149,7 @@ Customers with lower education levels, such as those with Secondary/Secondary Sp
 -  Offer credit-building credit card options for customers with limited credit histories or lower incomes, such as secured credit cards or starter credit cards. These products can help individuals establish or improve their credit scores over time, increasing their eligibility for higher-tier credit cards.
 -   Develop customized eligibility criteria for credit card products based on age groups, marital statuses, and job roles. Consider factors like income stability, credit history, and debt-to-income ratios to determine eligibility accurately and fairly.
 -   Implement risk assessment strategies to mitigate potential risks associated with credit card issuance, especially for younger customers or those with limited credit histories. This may include setting lower credit limits initially, monitoring credit card usage closely, and offering credit counseling services.
+
 
 
 
